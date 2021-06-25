@@ -27,7 +27,7 @@ The next dataset that I used was the Racial and Social Equity Index that uses as
 
 Below are graphical representations of the median income for each census tract that lies within the original redlining zone. From this data you can see that the areas with the highest median incomes with the rightest skew are the top two redlining rankings, with the bottom two rankings having the lowest average incomes with the leftist skew.
 
-<img src = "img\income.png"/>
+<img src = "img\income.PNG"/>
 
 # Conclusions
 
