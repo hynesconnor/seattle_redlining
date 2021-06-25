@@ -1,5 +1,5 @@
 # Historic Redlining in the City of Seattle
-## *What Lasting Effects Can We Observe Today?*
+*What Lasting Effects Can We Observe Today?*
 
 # Abstract
 
